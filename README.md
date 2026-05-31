@@ -1,6 +1,6 @@
 # Publications, Policy Briefs & Analytical Work
 
-This repository serves as a consolidated archive of selected policy briefs, publications, reports, and analytical frameworks authored or co-authored by **Swaraj Singh** during assignments with public sector, multilateral, and development institutions.
+This repository serves as a consolidated archive of selected policy briefs, publications, reports and analytical frameworks authored or co-authored by **Swaraj Singh** during assignments with public sector, multilateral and development institutions.
 
 ---
 
@@ -21,7 +21,7 @@ Policy Research · Public Policy · Development Economics · Trade · Monitoring
 
 ### Overview
 
-This policy brief examines India's opportunities in the emerging global care economy against the backdrop of ageing demographics and growing international demand for caregiving services. The brief discusses ecosystem gaps, skilling requirements, and policy interventions to strengthen India's position in this sector.
+This policy brief examines India's opportunities in the emerging global care economy against the backdrop of ageing demographics and growing international demand for caregiving services. The brief discusses ecosystem gaps, skilling requirements and policy interventions to strengthen India's position in this sector.
 
 Subsequent policy discussions on the care economy culminated in the announcement of a national **Care Ecosystem initiative in the Union Budget 2026–27** (Para 54 of the Budget Speech).
 
@@ -41,7 +41,7 @@ Subsequent policy discussions on the care economy culminated in the announcement
 
 ### Overview
 
-A cross-country impact measurement and intervention-sequencing framework developed during tenure at the Organisation of Southern Cooperation (OSC), covering 28 member states across Africa, Asia, Latin America, and the Caribbean.
+A cross-country impact measurement and intervention-sequencing framework developed during tenure at the Organisation of Southern Cooperation (OSC), covering 28 member states across Africa, Asia, Latin America and the Caribbean.
 
 The framework serves two complementary functions: as an **impact measurement instrument**, establishing a comparable, reproducible baseline for technological readiness against which future progress can be tracked; and as a **decision-support model**, producing country-specific, cluster-relative Priority Matrices that translate composite scores into actionable intervention sequencing.
 
@@ -68,9 +68,9 @@ The framework is structured as a sequential analytical pipeline:
 
 | Pillar | What it Captures |
 |---|---|
-| Technology Infrastructure & Access | Digital connectivity, e-government, cybersecurity, population-level penetration |
-| Innovation Ecosystem | Productive capacity, R&D intensity, human capital, education investment |
-| Policy & Regulatory Environment | Business environment, emerging-tech regulation, enabling conditions |
+| Technology Infrastructure & Access | Digital connectivity, e-government, cybersecurity and population-level penetration |
+| Innovation Ecosystem | Productive capacity, R&D intensity, human capital and education investment |
+| Policy & Regulatory Environment | Business environment, emerging-tech regulation and enabling conditions |
 
 ---
 
@@ -78,9 +78,9 @@ The framework is structured as a sequential analytical pipeline:
 
 A three-component GMM identifies three distinct tiers of technological readiness across the 28 member states:
 
-- **Cluster 0 — Advanced**: Mature digital infrastructure, established innovation policy, stable regulatory environments. Includes Türkiye, Costa Rica, Tunisia, Jordan, Botswana, Côte d'Ivoire.
-- **Cluster 1 — Transitional**: Moderate average performance with substantial intra-cluster variance; requires disaggregated intervention design. Includes Palau, Guyana, Cambodia, Eswatini.
-- **Cluster 2 — Foundational**: Limited digital infrastructure, low R&D intensity, underdeveloped regulation. Concentrates in Horn of Africa and Sahel. Includes Afghanistan, Somalia, Yemen, Niger.
+- **Cluster 0 — Advanced**: Mature digital infrastructure, established innovation policy and stable regulatory environments. Includes Türkiye, Costa Rica, Tunisia, Jordan, Botswana and Côte d'Ivoire.
+- **Cluster 1 — Transitional**: Moderate average performance with substantial intra-cluster variance; requires disaggregated intervention design. Includes Palau, Guyana, Cambodia and Eswatini.
+- **Cluster 2 — Foundational**: Limited digital infrastructure, low R&D intensity and underdeveloped regulation. Concentrates in Horn of Africa and Sahel. Includes Afghanistan, Somalia, Yemen and Niger.
 
 ---
 
@@ -93,7 +93,7 @@ A three-component GMM identifies three distinct tiers of technological readiness
 
 ![Geographic Distribution of Clusters](visuals/Geographic_distribution_map.png)
 
-The Advanced tier (Cluster 0) is broadly distributed across Latin America, West Africa, Southern Africa, and MENA. The Foundational tier (Cluster 2) concentrates heavily in the Horn of Africa and the Sahel. The Transitional tier (Cluster 1) is the most geographically dispersed, spanning the Pacific, Caribbean, Southeast Asia, and Southern Africa.
+The Advanced tier (Cluster 0) is broadly distributed across Latin America, West Africa, Southern Africa and MENA. The Foundational tier (Cluster 2) concentrates heavily in the Horn of Africa and the Sahel. The Transitional tier (Cluster 1) is the most geographically dispersed, spanning the Pacific, Caribbean, Southeast Asia and Southern Africa.
 
 </details>
 
@@ -104,7 +104,7 @@ The Advanced tier (Cluster 0) is broadly distributed across Latin America, West 
 
 ![2D PCA Cluster Scatter](visuals/2D_PCA_cluster_scatter.png)
 
-PC1 and PC2 together capture approximately 65% of total variance across the indicator set. The three clusters separate cleanly along PC1 — interpretable as a composite axis of overall technological readiness — with Cluster 0 occupying the upper-right region and Cluster 2 the lower-left. This visual separation serves as a robustness check confirming the GMM clustering captures genuine structure.
+PC1 and PC2 together capture approximately 65% of total variance across the indicator set. The three clusters separate cleanly along PC1, interpretable as a composite axis of overall technological readiness, with Cluster 0 occupying the upper-right region and Cluster 2 the lower-left. This visual separation serves as a robustness check confirming the GMM clustering captures genuine structure.
 
 </details>
 
@@ -115,7 +115,7 @@ PC1 and PC2 together capture approximately 65% of total variance across the indi
 
 ![Heatmap of PCA Weighted Scores](visuals/Heatmap_of_PCA_Weighted_Scores.png)
 
-Country rankings on each pillar and the overall composite surface the tiered structure at a glance. The top stratum — Türkiye, Costa Rica, Tunisia, Jordan, Botswana, Côte d'Ivoire — leads consistently across all four ranking dimensions. Between the poles, ranking divergence is the analytically relevant signal: a country ranked 7th overall but 15th on Regulatory Environment (Palau) presents a fundamentally different intervention profile than one with uniformly middling scores.
+Country rankings on each pillar and the overall composite surface the tiered structure at a glance. The top stratum, Türkiye, Costa Rica, Tunisia, Jordan, Botswana and Côte d'Ivoire, leads consistently across all four ranking dimensions. Between the poles, ranking divergence is the analytically relevant signal: a country ranked 7th overall but 15th on Regulatory Environment (Palau) presents a fundamentally different intervention profile than one with uniformly middling scores.
 
 </details>
 
@@ -126,7 +126,7 @@ Country rankings on each pillar and the overall composite surface the tiered str
 
 ![Correlation Heatmap](visuals/Correlation_Heatmap_of_PCA_Weighted_Scores.png)
 
-The strongest correlation in the matrix is between T_2 and I_1 (r = 0.90), reflecting the deep complementarity between digital penetration and broader productive capacity. Cross-pillar correlations are mostly positive but moderate — confirming the three pillars are related but not redundant, a desirable property for a multidimensional composite index.
+The strongest correlation in the matrix is between T_2 and I_1 (r = 0.90), reflecting the deep complementarity between digital penetration and broader productive capacity. Cross-pillar correlations are mostly positive but moderate, confirming the three pillars are related but not redundant, a desirable property for a multidimensional composite index.
 
 </details>
 
@@ -137,7 +137,7 @@ The strongest correlation in the matrix is between T_2 and I_1 (r = 0.90), refle
 
 ![ANOVA p-values bar chart](visuals/ANOVA_p_values_bar_chart.png)
 
-Nine of eleven indicators reject the null at p < 0.05, with seven rejecting at p < 0.001. The two non-significant indicators (I_4 and P_2) are retained on substantive grounds — both are analytically important even where they do not strongly differentiate between clusters. Crucially, these same two indicators also carry the lowest PCA-derived weights, confirming consistency between two independent diagnostics.
+Nine of eleven indicators reject the null at p < 0.05, with seven rejecting at p < 0.001. The two non-significant indicators (I_4 and P_2) are retained on substantive grounds, both are analytically important even where they do not strongly differentiate between clusters. Crucially these same two indicators also carry the lowest PCA-derived weights, confirming consistency between two independent diagnostics.
 
 </details>
 
@@ -148,7 +148,7 @@ Nine of eleven indicators reject the null at p < 0.05, with seven rejecting at p
 
 ![PCA Weighted Scores ScatterPlot](visuals/PCA_Weighted_Scores_ScatterPlot.png)
 
-This scatter view provides a multi-dimensional perspective on technological readiness across the country set, segmented into the three pillars. Countries such as Türkiye and Costa Rica show pillar-uniformity — elevated and consistent across all three dimensions. Countries such as Palau and Côte d'Ivoire show pillar-divergence, with Technology Infrastructure substantially outpacing other pillars.
+This scatter view provides a multi-dimensional perspective on technological readiness across the country set, segmented into the three pillars. Countries such as Türkiye and Costa Rica show pillar-uniformity, elevated and consistent across all three dimensions. Countries such as Palau and Côte d'Ivoire show pillar-divergence, with Technology Infrastructure substantially outpacing other pillars.
 
 </details>
 
@@ -159,7 +159,7 @@ This scatter view provides a multi-dimensional perspective on technological read
 
 ![Parallel Coordinates Plot](visuals/Parallel_coordinates_plot.png)
 
-An unmistakable convergence-divergence pattern emerges: countries spread most widely on Technology Infrastructure & Access, narrow somewhat on Innovation Ecosystem, and converge tightly on Regulatory Environment. This suggests member states show greater institutional convergence at the policy level than at the infrastructural level — with implications for where differentiated versus harmonised interventions are most appropriate.
+An unmistakable convergence-divergence pattern emerges: countries spread most widely on Technology Infrastructure & Access, narrow somewhat on Innovation Ecosystem and converge tightly on Regulatory Environment. This suggests member states show greater institutional convergence at the policy level than at the infrastructural level, with implications for where differentiated versus harmonised interventions are most appropriate.
 
 </details>
 
@@ -225,8 +225,6 @@ This view situates Afghanistan within its own cluster, showing the distribution 
 <br>
 
 ![Comparison with Cluster Averages](visuals/comparison_with_cluster_averages.png)
-
-
 
 </details>
 
