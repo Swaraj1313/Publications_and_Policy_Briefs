@@ -177,4 +177,4 @@ Afghanistan · Botswana · Burundi · Cambodia · Comoros · Congo · Costa Rica
 
 ---
 
-*For queries or collaboration, contact via [GitHub](https://github.com/Swaraj1313).*
+
