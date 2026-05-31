@@ -28,10 +28,10 @@ Subsequent policy discussions on the care economy culminated in the announcement
 ### Links
 
 - 📰 [Original Publication — India Serves, Vol. III (SEPC)](https://www.servicesepc.org/upload/media/India%20Serves_VOL%20III_2023_March_8949.pdf)
+- 💾 [Alternative Mirror — Repository PDF Copy](India%20Serves_VOL%20III_2023_March_8949.pdf)
 - 🏛️ [Government of India Budget Reference (PIB)](https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2236531&lang=1&reg=3)
 
 </details>
-
 ---
 
 <details>
