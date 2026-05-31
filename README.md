@@ -32,7 +32,6 @@ Subsequent policy discussions on the care economy culminated in the announcement
 - 🏛️ [Government of India Budget Reference (PIB)](https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2236531&lang=1&reg=3)
 
 </details>
----
 
 <details>
 <summary><strong>📊 Technology Readiness Index & Regional Benchmarking Framework</strong> &nbsp;·&nbsp; <em>Analytical Framework · Organisation of Southern Cooperation</em></summary>
